@@ -13,7 +13,7 @@ A simple task management application built using **React** and **MUI**, featurin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhruvidesai1805/task-managment-board
+   git clone https://github.com/dhruvidesai1805/task-managment-board.git
    cd task-managment-board
    ```
 2. Install dependencies:
