@@ -14,7 +14,7 @@ A simple task management application built using **React** and **MUI**, featurin
 1. Clone the repository:
    ```bash
    git clone https://github.com/dhruvidesai1805/task-managment-board
-   cd task-management-app
+   cd task-managment-board
    ```
 2. Install dependencies:
    ```bash
@@ -22,7 +22,7 @@ A simple task management application built using **React** and **MUI**, featurin
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 4. Open the app in your browser at `http://localhost:5173`.
 
